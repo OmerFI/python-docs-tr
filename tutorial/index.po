@@ -3,22 +3,24 @@
 # This file is distributed under the same license as the Python package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Python 3.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-10-10 15:01-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2021-10-14 20:01+0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: Omer Furkan Isleyen <omergumushane@hotmail.com>\n"
+"Language-Team: OmerFI\n"
+"Language: tr\n"
+"X-Generator: Poedit 3.0\n"
 
 #: tutorial/index.rst:5
 msgid "The Python Tutorial"
-msgstr ""
+msgstr "Python Eğitimi"
 
 #: tutorial/index.rst:7
 msgid ""
@@ -28,6 +30,12 @@ msgid ""
 "with its interpreted nature, make it an ideal language for scripting and "
 "rapid application development in many areas on most platforms."
 msgstr ""
+"Python öğrenmesi kolay ve güçlü bir programlama dilidir. Python etkili "
+"yüksek düzey veri yapılarına ve nesne yönelimli programlamaya, basit ama "
+"etkili bir yaklaşıma sahiptir. Python'un zarif söz dizimi ve dinamik "
+"yazımıyla birlikte onun yorumlanmış doğası onu scripting için ve hızlı "
+"uygulama geliştiriciliği için çoğu platformda çoğu durumda ideal bir dil "
+"yapıyor."
 
 #: tutorial/index.rst:13
 msgid ""
@@ -37,6 +45,12 @@ msgid ""
 "site also contains distributions of and pointers to many free third party "
 "Python modules, programs and tools, and additional documentation."
 msgstr ""
+"Python yorumlayıcısı (interpreter) ve kapsamlı standart kütüphanesi ücretsiz "
+"olarak source ve binary halinde tüm büyük platformlar için Python'un Web "
+"sitesinde mevcuttur, https://www.python.org/, ve serbestçe dağıtılabilir. "
+"Aynı site çoğu ücretsiz üçüncü taraf Python modüllerinin, programlarının/"
+"araçlarının ve ek dokümantasyonların dağıtımlarını ve bunlara yönelik "
+"tavsiyeleri de içerir."
 
 #: tutorial/index.rst:19
 msgid ""
@@ -44,6 +58,10 @@ msgid ""
 "implemented in C or C++ (or other languages callable from C). Python is also "
 "suitable as an extension language for customizable applications."
 msgstr ""
+"Python yorumlayıcısı C veya C++ da (veya C'den çağrılabilen diğer dillerde) "
+"uygulanmış veri tipleri ve yeni fonksiyonları ile kolaylıkla "
+"genişletilebilir. Ayrıca Python özelleştirilebilir uygulamalar için bir "
+"eklenti dili olmaya uygundur."
 
 #: tutorial/index.rst:23
 msgid ""
@@ -52,6 +70,11 @@ msgid ""
 "interpreter handy for hands-on experience, but all examples are self-"
 "contained, so the tutorial can be read off-line as well."
 msgstr ""
+"Bu eğitim okuyuculara Python dilinin ve onun sisteminin temel kavramlarını "
+"ve özelliklerini resmi bir anlatım olmayacak şekilde sunar. Bu eğitim pratik "
+"yaparak öğrenme anlayışı için kullanışlı bir Python yorumlayıcısını "
+"edinmenize yardımcı olur ancak tüm örnekler (internetten) bağımsızdır ve "
+"böylece bu eğitim çevrimdışıyken de okunabilir."
 
 #: tutorial/index.rst:28
 msgid ""
@@ -60,6 +83,11 @@ msgid ""
 "language.  To write extensions in C or C++, read :ref:`extending-index` and :"
 "ref:`c-api-index`. There are also several books covering Python in depth."
 msgstr ""
+"Standart objeler ve modüllere yönelik bir açıklama için :ref:`library-"
+"index`, Python için daha resmi bir tanım için :ref:`reference-index` "
+"kısımlarına bakınız . C veya C++ da eklenti yazmak için burayı :ref:"
+"`extending-index` ve burayı :ref:`c-api-index` okuyunuz. Bunların dışında "
+"Python'u derinlemesine ele alan kitaplar da bulunmaktadır."
 
 #: tutorial/index.rst:33
 msgid ""
@@ -70,7 +98,14 @@ msgid ""
 "write Python modules and programs, and you will be ready to learn more about "
 "the various Python library modules described in :ref:`library-index`."
 msgstr ""
+"Bu eğitim kapsamlı olmaya ve her bir özelliği veya her yaygın olarak "
+"kullanılan özelliği ele almaya çalışmaz. Bunun yerine Python'un en kayda "
+"değer özelliklerini tanıtır ve size Python'un lezzeti ve stili ile alakalı "
+"güzel bir fikir verecektir. Bunu okuduktan sonra Python modüllerini ve "
+"programlarını okuyabilecek ve yazabilecek bir seviyeye geleceksiniz ve :ref:"
+"`library-index` kısmında bahsedilen çeşitli Python kütüphane modülleri "
+"hakkında daha fazla bilgi edinmeye hazır olacaksınız."
 
 #: tutorial/index.rst:40
 msgid "The :ref:`glossary` is also worth going through."
-msgstr ""
+msgstr ":ref:`glossary` kısmı da incelemeye değer bir yerdir."
